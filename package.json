@@ -1,0 +1,21 @@
+{
+  "name": "basicinfosite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damon-Thomas/basicInfoSite.git"
+  },
+  "author": "Damon Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Damon-Thomas/basicInfoSite/issues"
+  },
+  "homepage": "https://github.com/Damon-Thomas/basicInfoSite#readme"
+}
